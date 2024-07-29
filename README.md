@@ -1,2 +1,0 @@
-# cipherSchoolProject
-Book-store
